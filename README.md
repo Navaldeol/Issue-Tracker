@@ -1,6 +1,5 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
-------
-Simple issue tracker that can auto generate id. You can then update or delete issues based on ID
+## Simple issue tracker that can auto generate id. You can then update or delete issues based on ID  
+
 [Link to Live App](https://my-personal-issue-tracker.glitch.me)
 
 
